@@ -1,0 +1,6 @@
+pyLDAvis == 2.1.2
+numpy == 1.13.3
+nltk == 3.2.4
+pandas == 0.20.3
+ipywidgets == 7.0.0
+scikit-learn == 0.19.1
